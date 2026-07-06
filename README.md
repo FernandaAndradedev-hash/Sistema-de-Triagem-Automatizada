@@ -29,8 +29,8 @@
 ## Como rodar
  
 ```bash
-git https://github.com/FernandaAndradedev-hash/Sistema-de-Triagem-Automatizada.git
-cd mailmind-email-triage
+git clone https://github.com/FernandaAndradedev-hash/Sistema-de-Triagem-Automatizada.git
+cd Sistema-de-Triagem-Automatizada
 py -3.11 -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
