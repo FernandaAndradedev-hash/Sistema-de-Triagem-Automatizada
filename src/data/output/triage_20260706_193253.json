@@ -1,0 +1,90 @@
+[
+  {
+    "id": "001",
+    "sender": "Ricardo Almeida",
+    "subject": "Solicitação de Proposta — Consultoria de Processos",
+    "received_at": "2024-03-15 09:30:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CcmbfwcXS61qf2i3Qemmu'}"
+  },
+  {
+    "id": "002",
+    "sender": "Carla Mendonça",
+    "subject": "URGENTE — Problema grave com entrega do projeto",
+    "received_at": "2024-03-15 10:15:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CcmbfxpDHzmL5tVAPEKTc'}"
+  },
+  {
+    "id": "003",
+    "sender": "Paulo Henrique",
+    "subject": "Confirmação de reunião — Quinta-feira 14h",
+    "received_at": "2024-03-15 11:00:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CcmbfzUfyeCDd5qRLXFmo'}"
+  },
+  {
+    "id": "004",
+    "sender": "Financeiro Indústrias Beta",
+    "subject": "NF 4521 — Pagamento em atraso",
+    "received_at": "2024-03-15 11:30:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ccmbg1jL9eZ8dpQQ6aXrF'}"
+  },
+  {
+    "id": "005",
+    "sender": "Juliana Ferreira",
+    "subject": "Feedback sobre consultoria — Muito satisfeita!",
+    "received_at": "2024-03-15 13:00:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ccmbg3HqYxptq873JndUs'}"
+  },
+  {
+    "id": "006",
+    "sender": "Newsletter Empresarial",
+    "subject": " As 10 tendências de gestão para 2024 — Edição especial",
+    "received_at": "2024-03-15 14:00:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ccmbg4aE9MMu7Qd6sbX3k'}"
+  },
+  {
+    "id": "007",
+    "sender": "Marcos Silva",
+    "subject": "Reunião de equipe — Pauta semana 12",
+    "received_at": "2024-03-15 15:00:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ccmbg5ptT8D39xtmrWs7t'}"
+  },
+  {
+    "id": "008",
+    "sender": "Ana Carolina Ramos",
+    "subject": "Dúvida sobre metodologia de consultoria de vendas",
+    "received_at": "2024-03-15 16:00:00",
+    "category": "",
+    "urgency": "",
+    "summary": "",
+    "suggested_reply": "",
+    "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Ccmbg77XZoCt471gvhATK'}"
+  }
+]
